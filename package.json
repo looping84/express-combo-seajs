@@ -1,0 +1,33 @@
+{
+    "name": "express-combo-seajs",
+    "description": "express combo middleware for seajs",
+    "version": "1.0.6",
+    "license": "GPLv3",
+    "author": {
+        "name": "looping",
+        "email": "looping84@gmail.com"
+    },
+    "keywords": [
+        "express",
+        "combo",
+        "seajs"
+    ],
+    "dependencies": {},
+    "devDependencies": {
+        "express": "3.x"
+    },
+    "engines": {
+        "node": "*"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/looping84/express-combo-seajs.git"
+    },
+    "bugs": {
+        "url": "https://github.com/looping84/express-combo-seajs/issues"
+    },
+    "readme": "",
+    "homepage": "https://github.com/looping84/express-combo-seajs",
+    "_id": "express-combo-seajs@1.0.0",
+    "_from": "express-combo-seajs@"
+}
